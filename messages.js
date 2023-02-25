@@ -155,7 +155,7 @@ const reading = () => {
     
     Yesterday was about ${yesterday.meaning}
     Today is about ${today.meaning}
-    Tomorrow advices ${tomorrow.meaning}
+    Tomorrow advises ${tomorrow.meaning}
     
     `
 };
