@@ -64,7 +64,7 @@ const majorArcana = [
     {   
         'number': '12',
         'name': 'The Hanged Man',
-        'meaning': 'detaching from the outcome of your situation can help you release yourself.'
+        'meaning': 'detaching from the outcome of your situation to help you release yourself.'
     },
     {   
         'number': '13',
@@ -89,7 +89,7 @@ const majorArcana = [
     {   
         'number': '17',
         'name': 'The Star',
-        'meaning': 'knowing that the universe is working in your havour and having faith in where you are being taken.'
+        'meaning': 'knowing that the universe is working in your favour and having faith in where you are being taken.'
     },
     {   
         'number': '18',
